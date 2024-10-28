@@ -1,1 +1,0 @@
- Key.delete  Key.left  Key.backspace 5 Key.ctrl_l  Key.alt_l  Key.alt_l  Key.alt_l  Key.alt_l  Key.alt_l  Key.alt_l  Key.alt_l  Key.tab  Key.tab 
